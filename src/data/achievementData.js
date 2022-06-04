@@ -1,0 +1,46 @@
+export const achievementData = {
+    bio : "These are my achievements",
+    achievements : [
+        {
+            id : 1,
+            title : 'Google Hashcode',
+            details : 'Google Hashcode Qualification round',
+            date : 'Feb 24, 2022',
+            field : 'Automation',
+            link: 'https://drive.google.com/file/d/1NMpDKVidF2gZEVoe88SvR9vXd8iJyZQh/view?usp=sharing',
+            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+        },
+        {
+            id : 2,
+            title : 'Fools Programming Contest',
+            details : 'Got 5th place world wide and 1st place among iiith teams in Code Chef\'s Fools Programming Contest held on ',
+            date : 'March 29, 2022',
+            field : 'Automation',
+            link: 'https://www.codechef.com/FOOL2022',
+            image : 'data:image/jpeg;base64,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'
+        },
+        // {
+        //     id : 3,
+        //     title : 'Professional Data Engineer Certification',
+        //     details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
+        //     date : 'Aug 20, 2019',
+        //     field : 'Automation',
+        //     link: '',
+        //     image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+        // }
+
+    ]
+}
+
+
+// Do not remove any fields.
+// Leave it blank instead as shown below.
+
+/*
+
+export const achievementData = {
+    bio : "",
+    achievements : []
+}
+
+*/
