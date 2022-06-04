@@ -9,13 +9,8 @@ import {
     FaLinkedinIn,
     FaGithub,
     FaYoutube,
-    FaBloggerB,
-    FaRedditAlien,
-    FaStackOverflow,
-    FaCodepen,
     FaInstagram,
     FaGitlab,
-    FaMediumM,
 } from 'react-icons/fa';
 import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
 import { FiPhone, FiAtSign } from 'react-icons/fi';
