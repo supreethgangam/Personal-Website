@@ -35,15 +35,6 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Vue App',
-        projectDesc: 'It is a linux shell created only using C programming language',
-        tags: ['VueJS','MongoDB','Vercel'],
-        code: 'https://github.com/supreethgangam/VueApp',
-        demo: 'https://github.com/supreethgangam/VueApp',
-        image: four
-    },
-    {
-        id: 5,
         projectName: 'C Shell',
         projectDesc: 'It is a linux shell created only using C programming language',
         tags: ['C'],
@@ -52,7 +43,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 6,
+        id: 5,
         projectName: 'Portfolio',
         projectDesc: 'My personal website made with React',
         tags: ['React','CSS'],
